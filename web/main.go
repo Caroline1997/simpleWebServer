@@ -2,7 +2,7 @@ package main
 
 import (
 	"os"
-	"hw/web/service"
+	"simpleWebServer/web/service"
 	flag "github.com/spf13/pflag"
 )
 
